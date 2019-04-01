@@ -1,5 +1,6 @@
-Name:             Cristian E. Nuno
-Email:            cristian.nuno@flatironschool.com
-Favorite Place:   Hakone, Japan
-Favorite Food:    Lou Malnati's Deep Dish Pizza
-Astrology sign:   Cancer
+Name:             Taeho Jeon
+Email:            taeho.jeon@flatironschool.com
+Favorite Place:   Hongkong
+Favorite Food:    Bulgogi
+Astrology sign:   Aquarius
+Favorite Sports:  Baseball
